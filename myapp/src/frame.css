@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch|Oswald&display=swap');
+
+/* h2{
+    font-family: 'Chakra Petch', sans-serif;
+} */
+
+h2{
+    font-family: 'Chakra Petch', sans-serif;
+font-family: 'Oswald', sans-serif;
+}
+
+.fontDetail{
+    font-family: 'Chakra Petch', sans-serif;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Chakra Petch', sans-serif;
+}

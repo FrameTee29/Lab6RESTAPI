@@ -1,11 +1,10 @@
 import React from 'react'; 
-import Bear from './components/Bear'
+import Students from './components/Students'
 
 const App = () => {
   return (
     <div>
-        <h1>Hello world!!</h1>
-        <Bear />
+        <Students />
     </div>
   );
 }
